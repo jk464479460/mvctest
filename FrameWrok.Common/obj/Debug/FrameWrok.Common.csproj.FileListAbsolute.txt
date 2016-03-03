@@ -1,0 +1,33 @@
+C:\Users\pu\Documents\Projects\mvctest\FrameWrok.Common\bin\Debug\FrameWrok.Common.dll.config
+C:\Users\pu\Documents\Projects\mvctest\FrameWrok.Common\bin\Debug\FrameWrok.Common.dll
+C:\Users\pu\Documents\Projects\mvctest\FrameWrok.Common\bin\Debug\FrameWrok.Common.pdb
+C:\Users\pu\Documents\Projects\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.dll
+C:\Users\pu\Documents\Projects\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pu\Documents\Projects\mvctest\FrameWrok.Common\bin\Debug\MySql.Data.dll
+C:\Users\pu\Documents\Projects\mvctest\FrameWrok.Common\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\pu\Documents\Projects\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.xml
+C:\Users\pu\Documents\Projects\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pu\Documents\Projects\mvctest\FrameWrok.Common\obj\Debug\FrameWrok.Common.dll
+C:\Users\pu\Documents\Projects\mvctest\FrameWrok.Common\obj\Debug\FrameWrok.Common.pdb
+F:\Ubuntu 64 位\mvctest\FrameWrok.Common\bin\Debug\FrameWrok.Common.dll.config
+F:\Ubuntu 64 位\mvctest\FrameWrok.Common\bin\Debug\FrameWrok.Common.dll
+F:\Ubuntu 64 位\mvctest\FrameWrok.Common\bin\Debug\FrameWrok.Common.pdb
+F:\Ubuntu 64 位\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.dll
+F:\Ubuntu 64 位\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.SqlServer.dll
+F:\Ubuntu 64 位\mvctest\FrameWrok.Common\bin\Debug\MySql.Data.dll
+F:\Ubuntu 64 位\mvctest\FrameWrok.Common\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\Ubuntu 64 位\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.xml
+F:\Ubuntu 64 位\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.SqlServer.xml
+F:\Ubuntu 64 位\mvctest\FrameWrok.Common\obj\Debug\FrameWrok.Common.dll
+F:\Ubuntu 64 位\mvctest\FrameWrok.Common\obj\Debug\FrameWrok.Common.pdb
+D:\mvctest\FrameWrok.Common\bin\Debug\FrameWrok.Common.dll.config
+D:\mvctest\FrameWrok.Common\bin\Debug\FrameWrok.Common.dll
+D:\mvctest\FrameWrok.Common\bin\Debug\FrameWrok.Common.pdb
+D:\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.dll
+D:\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\mvctest\FrameWrok.Common\bin\Debug\MySql.Data.dll
+D:\mvctest\FrameWrok.Common\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.xml
+D:\mvctest\FrameWrok.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\mvctest\FrameWrok.Common\obj\Debug\FrameWrok.Common.dll
+D:\mvctest\FrameWrok.Common\obj\Debug\FrameWrok.Common.pdb

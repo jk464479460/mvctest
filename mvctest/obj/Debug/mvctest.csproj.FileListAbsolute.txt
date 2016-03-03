@@ -1,0 +1,84 @@
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\mvctest.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\mvctest.pdb
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\Bll.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\EntityFramework.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\EntityFramework.SqlServer.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\FrameWrok.Common.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\MySql.Data.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\MySql.Data.Entity.EF6.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.Helpers.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.Mvc.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.Razor.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.WebPages.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.WebPages.Razor.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\FrameWrok.Common.pdb
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\Bll.pdb
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.Razor.xml
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.Helpers.xml
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.WebPages.xml
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.WebPages.Razor.xml
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\EntityFramework.xml
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\EntityFramework.SqlServer.xml
+C:\Users\pu\Documents\Projects\mvctest\mvctest\bin\System.Web.Mvc.xml
+C:\Users\pu\Documents\Projects\mvctest\mvctest\obj\Debug\mvctest.csprojResolveAssemblyReference.cache
+C:\Users\pu\Documents\Projects\mvctest\mvctest\obj\Debug\mvctest.dll
+C:\Users\pu\Documents\Projects\mvctest\mvctest\obj\Debug\mvctest.pdb
+F:\Ubuntu 64 位\mvctest\mvctest\bin\mvctest.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\mvctest.pdb
+F:\Ubuntu 64 位\mvctest\mvctest\bin\Bll.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\EntityFramework.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\EntityFramework.SqlServer.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\FrameWrok.Common.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\Microsoft.Web.Infrastructure.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\MySql.Data.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\MySql.Data.Entity.EF6.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.Helpers.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.Mvc.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.Razor.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.WebPages.Deployment.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.WebPages.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\FrameWrok.Common.pdb
+F:\Ubuntu 64 位\mvctest\mvctest\bin\Bll.pdb
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.Razor.xml
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.Helpers.xml
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.WebPages.Deployment.xml
+F:\Ubuntu 64 位\mvctest\mvctest\bin\EntityFramework.xml
+F:\Ubuntu 64 位\mvctest\mvctest\bin\EntityFramework.SqlServer.xml
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.Mvc.xml
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.WebPages.xml
+F:\Ubuntu 64 位\mvctest\mvctest\obj\Debug\mvctest.csprojResolveAssemblyReference.cache
+F:\Ubuntu 64 位\mvctest\mvctest\obj\Debug\mvctest.dll
+F:\Ubuntu 64 位\mvctest\mvctest\obj\Debug\mvctest.pdb
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.WebPages.Razor.dll
+F:\Ubuntu 64 位\mvctest\mvctest\bin\System.Web.WebPages.Razor.xml
+D:\mvctest\mvctest\bin\mvctest.dll
+D:\mvctest\mvctest\bin\mvctest.pdb
+D:\mvctest\mvctest\bin\Bll.dll
+D:\mvctest\mvctest\bin\EntityFramework.dll
+D:\mvctest\mvctest\bin\EntityFramework.SqlServer.dll
+D:\mvctest\mvctest\bin\FrameWrok.Common.dll
+D:\mvctest\mvctest\bin\Microsoft.Web.Infrastructure.dll
+D:\mvctest\mvctest\bin\MySql.Data.dll
+D:\mvctest\mvctest\bin\MySql.Data.Entity.EF6.dll
+D:\mvctest\mvctest\bin\System.Web.Helpers.dll
+D:\mvctest\mvctest\bin\System.Web.Mvc.dll
+D:\mvctest\mvctest\bin\System.Web.Razor.dll
+D:\mvctest\mvctest\bin\System.Web.WebPages.Deployment.dll
+D:\mvctest\mvctest\bin\System.Web.WebPages.dll
+D:\mvctest\mvctest\bin\System.Web.WebPages.Razor.dll
+D:\mvctest\mvctest\bin\FrameWrok.Common.pdb
+D:\mvctest\mvctest\bin\Bll.pdb
+D:\mvctest\mvctest\bin\System.Web.Razor.xml
+D:\mvctest\mvctest\bin\System.Web.Helpers.xml
+D:\mvctest\mvctest\bin\System.Web.WebPages.Deployment.xml
+D:\mvctest\mvctest\bin\EntityFramework.xml
+D:\mvctest\mvctest\bin\EntityFramework.SqlServer.xml
+D:\mvctest\mvctest\bin\System.Web.Mvc.xml
+D:\mvctest\mvctest\bin\System.Web.WebPages.xml
+D:\mvctest\mvctest\bin\System.Web.WebPages.Razor.xml
+D:\mvctest\mvctest\obj\Debug\mvctest.csprojResolveAssemblyReference.cache
+D:\mvctest\mvctest\obj\Debug\mvctest.dll
+D:\mvctest\mvctest\obj\Debug\mvctest.pdb
