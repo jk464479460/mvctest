@@ -1,42 +1,13 @@
-C:\Users\pu\Documents\Projects\mvctest\Bll\bin\Debug\Bll.dll.config
-C:\Users\pu\Documents\Projects\mvctest\Bll\bin\Debug\Bll.dll
-C:\Users\pu\Documents\Projects\mvctest\Bll\bin\Debug\Bll.pdb
-C:\Users\pu\Documents\Projects\mvctest\Bll\bin\Debug\EntityFramework.dll
-C:\Users\pu\Documents\Projects\mvctest\Bll\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\pu\Documents\Projects\mvctest\Bll\bin\Debug\FrameWrok.Common.dll
-C:\Users\pu\Documents\Projects\mvctest\Bll\bin\Debug\MySql.Data.dll
-C:\Users\pu\Documents\Projects\mvctest\Bll\bin\Debug\MySql.Data.Entity.EF6.dll
-C:\Users\pu\Documents\Projects\mvctest\Bll\bin\Debug\FrameWrok.Common.pdb
-C:\Users\pu\Documents\Projects\mvctest\Bll\bin\Debug\EntityFramework.xml
-C:\Users\pu\Documents\Projects\mvctest\Bll\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\pu\Documents\Projects\mvctest\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
-C:\Users\pu\Documents\Projects\mvctest\Bll\obj\Debug\Bll.dll
-C:\Users\pu\Documents\Projects\mvctest\Bll\obj\Debug\Bll.pdb
-F:\Ubuntu 64 位\mvctest\Bll\bin\Debug\Bll.dll.config
-F:\Ubuntu 64 位\mvctest\Bll\bin\Debug\Bll.dll
-F:\Ubuntu 64 位\mvctest\Bll\bin\Debug\Bll.pdb
-F:\Ubuntu 64 位\mvctest\Bll\bin\Debug\EntityFramework.dll
-F:\Ubuntu 64 位\mvctest\Bll\bin\Debug\EntityFramework.SqlServer.dll
-F:\Ubuntu 64 位\mvctest\Bll\bin\Debug\FrameWrok.Common.dll
-F:\Ubuntu 64 位\mvctest\Bll\bin\Debug\MySql.Data.dll
-F:\Ubuntu 64 位\mvctest\Bll\bin\Debug\MySql.Data.Entity.EF6.dll
-F:\Ubuntu 64 位\mvctest\Bll\bin\Debug\FrameWrok.Common.pdb
-F:\Ubuntu 64 位\mvctest\Bll\bin\Debug\EntityFramework.xml
-F:\Ubuntu 64 位\mvctest\Bll\bin\Debug\EntityFramework.SqlServer.xml
-F:\Ubuntu 64 位\mvctest\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
-F:\Ubuntu 64 位\mvctest\Bll\obj\Debug\Bll.dll
-F:\Ubuntu 64 位\mvctest\Bll\obj\Debug\Bll.pdb
-D:\mvctest\Bll\bin\Debug\Bll.dll.config
-D:\mvctest\Bll\bin\Debug\Bll.dll
-D:\mvctest\Bll\bin\Debug\Bll.pdb
-D:\mvctest\Bll\bin\Debug\EntityFramework.dll
-D:\mvctest\Bll\bin\Debug\EntityFramework.SqlServer.dll
-D:\mvctest\Bll\bin\Debug\FrameWrok.Common.dll
-D:\mvctest\Bll\bin\Debug\MySql.Data.dll
-D:\mvctest\Bll\bin\Debug\MySql.Data.Entity.EF6.dll
-D:\mvctest\Bll\bin\Debug\FrameWrok.Common.pdb
-D:\mvctest\Bll\bin\Debug\EntityFramework.xml
-D:\mvctest\Bll\bin\Debug\EntityFramework.SqlServer.xml
-D:\mvctest\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
-D:\mvctest\Bll\obj\Debug\Bll.dll
-D:\mvctest\Bll\obj\Debug\Bll.pdb
+D:\DemoSite\Bll\bin\Debug\Bll.dll
+D:\DemoSite\Bll\bin\Debug\Bll.pdb
+D:\DemoSite\Bll\bin\Debug\EntityFramework.dll
+D:\DemoSite\Bll\bin\Debug\EntityFramework.SqlServer.dll
+D:\DemoSite\Bll\bin\Debug\FrameWrok.Common.dll
+D:\DemoSite\Bll\bin\Debug\MySql.Data.dll
+D:\DemoSite\Bll\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\DemoSite\Bll\bin\Debug\FrameWrok.Common.pdb
+D:\DemoSite\Bll\bin\Debug\EntityFramework.xml
+D:\DemoSite\Bll\bin\Debug\EntityFramework.SqlServer.xml
+D:\DemoSite\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+D:\DemoSite\Bll\obj\Debug\Bll.dll
+D:\DemoSite\Bll\obj\Debug\Bll.pdb

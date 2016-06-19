@@ -1,0 +1,75 @@
+﻿@{
+    ViewBag.Title = "授权管理";
+}
+
+<style>
+    .ptop {
+        width: 99.7%;
+        height: 5%;
+    }
+
+    .pbottom {
+        width: 99.7%;
+        height: 94%;
+    }
+
+    .pleft {
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+
+    .pright {
+        float: right;
+        width: 49%;
+        height: 100%;
+        margin-right: -4px;
+    }
+
+    .combo {
+        float: left;
+        margin-top: 5px;
+    }
+
+    .save {
+        background-color: blue;
+        border-radius: 3px 4px;
+        color: white;
+        width: 55px;
+        height: 23px;
+        margin-left: 15px;
+        margin-top: 4px;
+        float: left;
+    }
+    
+.save2 {
+    background-color: blue;
+    border-radius: 3px 4px;
+    color: white;
+    float: left;
+    height: 23px;
+    margin-left: 0;
+    margin-top: -4px;
+    width: 55px;
+}
+</style>
+
+<div class="ptop border">
+    <span class="left" style="margin-top:5px;">角色&nbsp;</span>
+    <select id="roleList" class="easyui-combobox" name="state" style="width:200px;"></select>
+    <input type="button" id="saveBtn" class="save" value="保存" />
+</div>
+<div class="pbottom">
+    <div class="pleft border">
+        <ul id="tree" style="float:left;"></ul>
+    </div>
+    <div class="pright border">
+        <table id="operList"></table>
+    </div>
+</div>
+<input type="text" id="roleID" hidden="hidden"/>
+<input type="text" id="pageId" hidden="hidden" />
+<script type="text/javascript" src="~/jsviews/Rights.js"></script>
+
+
+

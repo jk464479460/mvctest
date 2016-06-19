@@ -1,0 +1,181 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" type="text/css" href="~/themes/default/easyui.css" />
+    <link rel="stylesheet" type="text/css" href="~/themes/icon.css" />
+    <script type="text/javascript" src="~/js/jquery.min.js"></script>
+    <script type="text/javascript" src="~/js/jquery.easyui.min.js"></script>
+    <style>
+        body {
+            margin: 0px;
+        }
+
+        * {
+            font-size: 12px;
+            font-family: '微软雅黑';
+            text-align: center;
+        }
+
+        ul li {
+            list-style: none;
+        }
+
+        .Menus {
+            padding: 0px;
+        }
+
+            .Menus li {
+                margin-top: 5px;
+                margin-bottom: 5px;
+                cursor: pointer;
+            }
+
+        .logo {
+            width: 45px;
+            height: 38px;
+            background-image: url(/img/icon.png);
+            background-position: 0px 0px;
+            margin-left: 10px;
+            float: left;
+        }
+
+        .logText {
+            color: white;
+            font-size: 24px;
+            width: 100px;
+        }
+
+            .logText a {
+                color: white;
+            }
+
+        .left {
+            float: left;
+        }
+
+        .right {
+            float: right;
+            color: white;
+        }
+
+            .right a {
+                display: block;
+                line-height: 0px;
+                font-size: 17px;
+                vertical-align: top;
+                float: right;
+                margin-right: 10px;
+            }
+
+            .right .loginOut {
+                color: white;
+            }
+
+        td {
+            text-align: left;
+        }
+
+        .border {
+            border: 2px solid #dbdbdb;
+        }
+
+        .borderTitle {
+            font-size: 16px;
+            text-align: left;
+            padding-left: 10px;
+            border-bottom: 2px solid #dbdbdb;
+            height: 27px;
+            margin-top: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="easyui-layout">
+        <div data-options="region:'north',border:false" style="overflow:hidden;height:68px;background:#B3DFDA;background-image:url(/img/bg_top.png)">
+            <div style="margin-top:15px">
+                <div class="logo"></div>
+                <div class="left">
+                    <span class="logText">万达集团</span>
+                    <a style="color:white;">商管智能电表管理平台</a><span style="color:white;">-COMMERCIAL SMART METER MANAGEMENT SYSTEM</span>
+                </div>
+                <div class="right">
+                    <a class="loginOut" href="action.ashx?action=Logout"><img style="border-width:0px;" src="/img/Sign_out.png" />退出</a>
+                    <a style="pointer-events: none"><img src="/img/user.png" />&nbsp;test</a>
+                    <a style="pointer-events: none"><img src="/img/clock.png">2016-1-15</a>
+                </div>
+            </div>
+        </div>
+        <div data-options="region:'west',split:true,title:' '" style="width:150px;min-height:800px;">
+            <div class="easyui-accordion" style="padding:0px;">
+                @{
+                    List<Bll.TreeNodeBll> menus = (List<Bll.TreeNodeBll>)ViewBag.Menus;
+
+                }
+                @for (var i = 0; i < menus.Count; i++)
+                {
+                    if (menus[i].children.Count == 0)
+                    {   <ul class="Menus">
+                    <li class="menuClick" url="/@menus[i].link/@menus[i].link">@menus[i].text</li>
+                </ul>
+                    }
+                    else
+                    {
+                        <div title=@menus[i].text>
+                            <ul class="Menus">
+                                @for(var j = 0; j < menus[i].children.Count; j++)
+                                {
+                                    <li class="menuClick" url="/@menus[i].children[j].link/@menus[i].children[j].link">@menus[i].children[j].text</li>
+                                }
+                            </ul>
+                        </div>
+                    }
+                }
+
+                @*<ul class="Menus">
+                    <li>首&nbsp;&nbsp;页</li>
+                </ul>
+                <div title="电表管理">
+                    <ul class="Menus">
+                        <li>品牌电表</li>
+                        <li>商管电表</li>
+                        <li>仪表查询</li>
+                        <li>抄表数据</li>
+                        <li>账单管理</li>
+                    </ul>
+                </div>
+                <div title="报表管理">
+                    <ul class="Menus">
+                        <li>品牌报表</li>
+                        <li>商管报表</li>
+                        <li>设备报表</li>
+                    </ul>
+                </div>
+                <div title="系统管理">
+                    <ul class="Menus">
+                        <li>操作日志</li>
+                        <li>用户管理</li>
+                        <li>授权管理</li>
+                    </ul>
+                </div>*@
+            </div>
+
+        </div>
+        <div data-options="region:'south',border:false" style="height:50px;background:#A9FACD;padding:10px;">南京爱家赢系统有限公司 苏ICP备08102280号 总机：+86（025）68552201 87763031/32/33/35</div>
+        <div data-options="region:'center'">
+            @RenderBody()
+        </div>
+
+    </div>
+    <script>
+        $(".easyui-layout").css('width', $('body').css('width'));
+        $(".easyui-layout").css('height', $('body').css('height'));
+        $(document).on('click', ".menuClick", function () {
+            var url = $(this).attr("url");
+            window.open(url, "self");
+        });
+    </script>
+</body>
+</html>

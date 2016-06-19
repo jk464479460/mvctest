@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SqlRoot>
+  <SqlList name="sqlServer">
+    <SqlCmd name="DeleteRolesById">
+      <CmdLine>
+        <![CDATA[
+		delete from tb_usergroup where id in(@roles)
+	]]>
+      </CmdLine>
+      <param name="@roles" type="string"/>
+    </SqlCmd>
+    <SqlCmd name="DeleteUserById">
+      <CmdLine>
+        <![CDATA[
+		delete from tb_user where id in(@roles)
+	]]>
+      </CmdLine>
+      <param name="@roles" type="string"/>
+    </SqlCmd>
+    <SqlCmd name="GetBlogAll">
+      <CmdLine>
+        <![CDATA[
+		select * from blogs --where blogid=@BlogId
+	]]>
+      </CmdLine>
+    </SqlCmd>
+
+    <SqlCmd name="GetBlogTitle">
+      <CmdLine>
+        <![CDATA[
+		select p.PostId, p.Title,b.Name from Posts p
+left join Blogs b on p.BlogId=b.BlogId
+
+	]]>
+      </CmdLine>
+    </SqlCmd>
+  </SqlList>
+  <SqlList name="mySql">
+   
+  </SqlList>
+  <SqlList name="oracle">
+  </SqlList>
+</SqlRoot>
